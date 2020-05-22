@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/PractiseEnglish/static/js/main.8733e6ca.chunk.js",
-    "main.js.map": "/PractiseEnglish/static/js/main.8733e6ca.chunk.js.map",
+    "main.js": "/PractiseEnglish/static/js/main.e26173a3.chunk.js",
+    "main.js.map": "/PractiseEnglish/static/js/main.e26173a3.chunk.js.map",
     "runtime-main.js": "/PractiseEnglish/static/js/runtime-main.6609444e.js",
     "runtime-main.js.map": "/PractiseEnglish/static/js/runtime-main.6609444e.js.map",
     "static/js/2.811b02b4.chunk.js": "/PractiseEnglish/static/js/2.811b02b4.chunk.js",
     "static/js/2.811b02b4.chunk.js.map": "/PractiseEnglish/static/js/2.811b02b4.chunk.js.map",
     "index.html": "/PractiseEnglish/index.html",
-    "precache-manifest.cf4a35a5d5bf2aaf16396732df914ea7.js": "/PractiseEnglish/precache-manifest.cf4a35a5d5bf2aaf16396732df914ea7.js",
+    "precache-manifest.af53d5c266f4b7f973696f96e22c4fae.js": "/PractiseEnglish/precache-manifest.af53d5c266f4b7f973696f96e22c4fae.js",
     "service-worker.js": "/PractiseEnglish/service-worker.js",
     "static/js/2.811b02b4.chunk.js.LICENSE.txt": "/PractiseEnglish/static/js/2.811b02b4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6609444e.js",
     "static/js/2.811b02b4.chunk.js",
-    "static/js/main.8733e6ca.chunk.js"
+    "static/js/main.e26173a3.chunk.js"
   ]
 }

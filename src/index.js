@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import * as serviceWorker from './serviceWorker';
-import Word from './components/Word/index';
+import App from './components/App'
+import Theme from './styles/theme'
 
-ReactDOM.render(<Word />, document.getElementById('root'));
+ReactDOM.render(<Theme><App /></Theme>, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

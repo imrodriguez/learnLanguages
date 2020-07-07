@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/PractiseEnglish/static/js/main.e26173a3.chunk.js",
-    "main.js.map": "/PractiseEnglish/static/js/main.e26173a3.chunk.js.map",
-    "runtime-main.js": "/PractiseEnglish/static/js/runtime-main.6609444e.js",
-    "runtime-main.js.map": "/PractiseEnglish/static/js/runtime-main.6609444e.js.map",
-    "static/js/2.811b02b4.chunk.js": "/PractiseEnglish/static/js/2.811b02b4.chunk.js",
-    "static/js/2.811b02b4.chunk.js.map": "/PractiseEnglish/static/js/2.811b02b4.chunk.js.map",
-    "index.html": "/PractiseEnglish/index.html",
-    "precache-manifest.470834a6e754531d607a13a9a21c5aef.js": "/PractiseEnglish/precache-manifest.470834a6e754531d607a13a9a21c5aef.js",
-    "service-worker.js": "/PractiseEnglish/service-worker.js",
-    "static/js/2.811b02b4.chunk.js.LICENSE.txt": "/PractiseEnglish/static/js/2.811b02b4.chunk.js.LICENSE.txt"
+    "main.js": "/SpeakTest/static/js/main.b9143062.chunk.js",
+    "main.js.map": "/SpeakTest/static/js/main.b9143062.chunk.js.map",
+    "runtime-main.js": "/SpeakTest/static/js/runtime-main.d7baa11d.js",
+    "runtime-main.js.map": "/SpeakTest/static/js/runtime-main.d7baa11d.js.map",
+    "static/js/2.62432fa3.chunk.js": "/SpeakTest/static/js/2.62432fa3.chunk.js",
+    "static/js/2.62432fa3.chunk.js.map": "/SpeakTest/static/js/2.62432fa3.chunk.js.map",
+    "index.html": "/SpeakTest/index.html",
+    "precache-manifest.60d8bd197e51dc59296454d5668aca47.js": "/SpeakTest/precache-manifest.60d8bd197e51dc59296454d5668aca47.js",
+    "service-worker.js": "/SpeakTest/service-worker.js",
+    "static/js/2.62432fa3.chunk.js.LICENSE.txt": "/SpeakTest/static/js/2.62432fa3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6609444e.js",
-    "static/js/2.811b02b4.chunk.js",
-    "static/js/main.e26173a3.chunk.js"
+    "static/js/runtime-main.d7baa11d.js",
+    "static/js/2.62432fa3.chunk.js",
+    "static/js/main.b9143062.chunk.js"
   ]
 }
